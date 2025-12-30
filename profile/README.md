@@ -1,4 +1,12 @@
-# 🛡️ CyberDefenceLab – IAR
+<p align="center">
+  <img src="./assets/logo.png" alt="CyberDefenceLab IAR Logo" width="180" />
+</p>
+
+<h1 align="center">CyberDefenceLab – IAR</h1>
+
+<p align="center">
+  <strong>Official Cybersecurity Initiative of the Institute of Advanced Research</strong>
+</p>
 
 **CyberDefenceLab (CDL)** is the official cybersecurity research, training, and competition initiative of the **Institute of Advanced Research (IAR)**.
 
